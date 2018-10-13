@@ -1,0 +1,19 @@
+{
+  "name": "bellen",
+  "version": "1.0.0",
+  "description": "bel programma",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayachi-code/bellen.git"
+  },
+  "author": "bilal el ayachi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayachi-code/bellen/issues"
+  },
+  "homepage": "https://github.com/ayachi-code/bellen#readme"
+}
